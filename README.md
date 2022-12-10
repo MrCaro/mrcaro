@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MrCaro/mrcaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Front-End Engineer located in Orlando, FL 📍
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ♞ Getting my Masters in Computer Science at UCF – SP'23
+
+##### BIO
+
+- 🇻🇪 From Caracas, Venezuela
+- 💻 I'm currently working at **__**
+- 👨‍💻 Tech stack: `tailwindcss`, `.js`, `.jsx`, `.ts`
+- 🤓 Learning all about **Crafting human readable code and scalable applications**
+- 💬 Ping me about **react**, **tailwind**, **notion**, **ui design**
+- 💡 Hobbies: Soccer, Boxing, Video Games
