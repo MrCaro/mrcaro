@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Front-End Engineer located in Orlando, FL 📍
+#### I'm a Full Stack Engineer located in Orlando, FL 📍
 
 ##### NOW
 
@@ -9,7 +9,7 @@
 ##### BIO
 
 - 🇻🇪 From Caracas, Venezuela
-- 💻 I'm currently working at **__**
+- 💻 I'm currently working at **wonderful.io** as a Full Stack Engineer
 - 👨‍💻 Tech stack: `tailwindcss`, `.js`, `.jsx`, `.ts`
 - 🤓 Learning all about **Crafting human readable code and scalable applications**
 - 💬 Ping me about **react**, **tailwind**, **notion**, **ui design**
