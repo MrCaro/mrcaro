@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full Stack Engineer located in Orlando, FL 📍
+#### I'm a Front-End Engineer located in Orlando, FL 📍
 
 ##### NOW
 
