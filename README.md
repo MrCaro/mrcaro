@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Software Engineer located in Orlando, FL 📍
-
-##### NOW
-
-- ♞ Masters in Computer Science at UCF
+#### I'm a Software Engineer located in Orlando, FL 📍 Masters in Computer Science from UCF
 
 ##### BIO
 
