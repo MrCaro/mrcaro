@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-#### I'm a Front-End Engineer located in Orlando, FL 📍 
-
-Masters in Computer Science at UCF / Orlando, FL
+#### I'm a Front-End Engineer currently in Orlando, FL 📍 
 
 ##### BIO
 
-- 💻 I'm currently working at **tasty.studio** as a Full Stack Engineer
+- 💻 Strong Front-End dev and UI/UX design skills
 - 👨‍💻 Tech stack: `tailwindcss`, `.js`, `.jsx`, `.ts`
 - 🤓 Learning all about **Crafting human readable code and scalable applications**
 - 💬 Ping me about **react**, **tailwind**, **notion**, **ui design**
