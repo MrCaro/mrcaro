@@ -6,5 +6,5 @@
 
 - 💻 Strong Front-End development skills
 - 👨‍💻 Tech stack: `tailwindcss`, `.js`, `.jsx`, `jQuery`
-- 🤓 Learning all about **Crafting human readable code and scalable e-commerce applications**
+- 🤓 All about **Crafting human readable code and scalable e-commerce applications**
 - 💡 Hobbies: Soccer, Boxing, Video Games
